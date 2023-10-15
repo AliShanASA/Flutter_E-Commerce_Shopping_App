@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121868122494",
+    "project_id": "smart-shopping-updated",
+    "storage_bucket": "smart-shopping-updated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121868122494:android:d2485883d0e36142a3db2f",
+        "android_client_info": {
+          "package_name": "com.example.fashion_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121868122494-8b22c3ikj5ogl0h228b08u7alaaaph10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7vXVBrD7WxYwLpR10qMkN4OLUnokE3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121868122494-8b22c3ikj5ogl0h228b08u7alaaaph10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
